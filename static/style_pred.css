@@ -1,0 +1,13 @@
+body{
+    background:repeat;
+    background: url(2.jpg);
+    backdrop-filter: blur(6px);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.class{
+    margin-top:220px;
+    margin-left:505px;
+    color:#E4F5CC;
+}
